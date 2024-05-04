@@ -1,16 +1,24 @@
-# riverpod_counter
+Riverpod Flutter Basic Concepts
 
-A new Flutter project.
+Project Description:
+This project is a simple Flutter application designed for teaching basic concepts of using Riverpod for state management. It includes a counter application that demonstrates how to create providers, read and update state, and use providers in different parts of the application.
 
-## Getting Started
+Technologies Used:
+- Flutter
+- Riverpod
+- Provider
+- Dart
 
-This project is a starting point for a Flutter application.
+Getting Started:
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run the application using `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+Overview:
+Riverpod is a state management library for Flutter based on Provider, offering more control over provider scopes and lifetimes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lessons:
+- Use this project to teach students how to use Riverpod for state management in Flutter, understand provider scopes and lifetimes, and work with stateful widgets and providers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feedback:
+- Please open an issue for any feedback or suggestions for improvement.
